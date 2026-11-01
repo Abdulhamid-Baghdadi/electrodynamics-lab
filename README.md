@@ -1,4 +1,5 @@
 # Electrodynamics Lab
+> **Moved.** This lab now lives in [bachelor-lectures-aid-kit](https://github.com/Abdulhamid-Baghdadi/bachelor-lectures-aid-kit) (folder `Electromagnetism`), site: <https://abdulhamid-baghdadi.github.io/bachelor-lectures-aid-kit/Electromagnetism/>. This repository is kept for its links only.
 
 Twenty-eight key equations of electrodynamics and wave propagation to play with in the browser, from Maxwell's equations to transmission lines,
 each with its full equation set and its number in the lecture notes of Prechtl (2010), *Vorlesungen über
